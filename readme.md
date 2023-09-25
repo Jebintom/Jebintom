@@ -7,7 +7,7 @@ Pusruing btech degree in computer science engineering
 I completed my high school studies on the year 2019 by a score of 96%. I had completed the internship training at Edurekha on the course Flutter.
 
 * 🌍  I'm based in INDIAN
-* 🖥️  See my portfolio at [https://github.com/Jebintom](http://github.com/Jebintom)
+* 🖥️  See my portfolio at [https://github.com/Jebintom](http://jebintom.github.io/)
 * ✉️  You can contact me at [jebintom842003@gmail.com](mailto:jebintom842003@gmail.com)
 * 🧠  I'm learning python
 
