@@ -27,7 +27,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jebintom&show_icons=true&locale=en&layout=compact" alt="jebintom" /></p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jebintom&" alt="jebintom" /></p>
 
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jebintom&langs_count=8&theme=radical" alt=Jebintom />
 
