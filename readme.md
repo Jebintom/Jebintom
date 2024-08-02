@@ -30,3 +30,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jebintom&" alt="jebintom" /></p>
 
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jebintom&langs_count=8&theme=radical" alt=Jebintom />
