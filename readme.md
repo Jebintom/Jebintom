@@ -31,6 +31,9 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jebintom&" alt="jebintom" /></p>
 
 [![](https://github.com/Jebintom/[your-repo](https://github.com/Jebintom)/raw/main/path-to-your-profile-details-card.svg)](https://github.com/Jebintom/[your-repo](https://github.com/Jebintom))
-![](https://raw.githubusercontent.com/Jebintom/[github-profile-summary-cards-example](https://github.com/Jebintom)/master/profile-summary-card-output/darcula/3-stats.svg)
+
+[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 
